@@ -1,0 +1,7 @@
+ĐAPM: Quản lý cửa hàng bán đồ chơi
+
+Phần mềm này sẽ được phát triển với các tính năng chính như:
+1.  Quản lý sản phẩm: Cho phép quản lý và cập nhật thông tin sản phẩm, mô tả, hình ảnh, giá cả và số lượng hàng tồn kho.
+2.  Quản lý khách hàng: Theo dõi đc đơn hàng và thông tin cá nhân khách hàng.
+3.  Quản lý nhân viên: Quản lý và theo dõi theo dõi chấm công, tiến độ công việc và tính lương.
+4.  Xem thông tin nhà sản xuất: Có thể coi các nhà sản xuất thông qua các sản phẩm. Gồm thông tin liên hệ của các nhà sản xuất, thông tin giao dịch đối với nhà sản xuất.
